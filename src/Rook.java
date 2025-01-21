@@ -1,4 +1,4 @@
-
+public boolean canMoveTo(int xPosition, int yPosition){
 public class Rook extends Piece{
 	public Rook(Board board, int color, int xLoc, int yLoc){
 		super(board, color, xLoc, yLoc);
